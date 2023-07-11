@@ -17,6 +17,23 @@ body {
     font-weight: 700;
     border: none;
 }
+.common-desc {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 48px;
+
+}
+
+.common-title {
+    color: #272727;
+
+    font-size: 40px;
+
+    font-weight: 800;
+
+}
 
 /* head section start */
 .head-section {
@@ -75,14 +92,7 @@ body {
     font-weight: 800;
 }
 
-.banner-item-desc {
-    color: rgba(39, 39, 39, 0.60);
-    text-align: center;
-    font-size: 18px;
-    font-weight: 400;
-    margin-bottom: 48px;
 
-}
 
 .banner-item-imgs {
     
@@ -161,23 +171,6 @@ body {
     margin: 100px 0px;
 }
 
-.mid-section-title {
-    color: #272727;
-
-    font-size: 40px;
-
-    font-weight: 800;
-
-}
-
-.mid-section-desc {
-    color: rgba(39, 39, 39, 0.60);
-    text-align: center;
-    font-size: 18px;
-    font-weight: 400;
-    margin: 24px 0px;
-
-}
 
 .off {
     color: #E55473;
@@ -203,14 +196,7 @@ body {
     font-weight: 800;
 }
 
-.social-item-desc {
-    color: rgba(39, 39, 39, 0.60);
-    text-align: center;
-    font-size: 18px;
-    font-weight: 400;
-    margin-bottom: 48px;
 
-}
 
 .social-item-imgs {
     
@@ -233,22 +219,6 @@ body {
     padding: 121px 0px;
 }
 
-.order-title {
-    color: #272727;
-
-    font-size: 40px;
-
-    font-weight: 800;
-}
-
-.order-item-desc {
-    color: rgba(39, 39, 39, 0.60);
-    text-align: center;
-    font-size: 18px;
-    font-weight: 400;
-    margin-bottom: 48px;
-
-}
 
 .oreder-item input {
     padding: 22px 523px 22px 22px;
@@ -273,17 +243,7 @@ body {
 
 }
 
-.about-greeting {
-    color: #151414;
-    font-size: 40px;
-    font-weight: 700;
 
-}
-.about-description{
-    font-size: 25px;
-    font-weight: 700;
-
-}
 
 .sub {
     display: flex;
