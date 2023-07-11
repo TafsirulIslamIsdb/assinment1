@@ -116,6 +116,7 @@ body {
 }
 
 
+
 .flowers1 {
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
@@ -124,10 +125,10 @@ body {
     
 
 }
-/* #tas{
-    position:absolute;
-    margin-bottom: -40px; 
-} */
+ .tas{
+    height: 470px; 
+  
+} 
 
 .flowers2 {
     border-radius: 300px 300px 0px 0px;
@@ -143,6 +144,11 @@ body {
     width: 464px;
    
 
+}
+.bejal{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
 }
 
 /* banner section end */
@@ -239,7 +245,7 @@ body {
 
 
 .about-content {
-    margin-left: 87px;
+    margin-left: 187px;
 
 }
 
